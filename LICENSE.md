@@ -1,4 +1,4 @@
-#  
+#  advanced Workflow for Fantastical for macOS - note encryption and cloud backup is the best Fantastical for macOS workflow, featuring note encryption and cloud backup. Safe,
 
 
 
